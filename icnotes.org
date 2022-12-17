@@ -1,0 +1,1491 @@
+#+TITLE: In-class Notes for ENG2711
+#+OPTIONS: toc:nil num:nil
+
+* 2022-08-23
+
+** What does film mean?
+
+- Emotional
+- Escaping reality
+- Comfort
+
+* 2022-08-25
+* 2022-08-30
+
+** S-M-R
+
+Sender, Message, receiver
+
+- Sender: Filmmaker
+- Message: Film
+- Receiver: Film watcher
+
+** We are always working when watching a film
+
+Any film relies on us to supply information.
+We read a film without even thinking about it.
+
+** Mise-en-scene
+
+Mise-en-scène is very much about the relationship between the film and the audience.
+Mise-en-scène is something we hold onto (such as costume).
+A lot of what we remember and know about a film is because of mise-en-scène.
+Audience knowledge, audience understanding, collective inventory.
+Mise-en-scène depends on audience to be able to do that work.
+
+Definitions.
+
+1. It's a term meaning staging production.
+2. French phrase used to described the staging of a play.
+3. Putting on action or seen on stage (everything that is visible on screen).
+4. The scenic elements of a film.
+5. Arranging the scene.
+6. A form of framing.
+7. The expressiveness of film.
+8. Director's control of what appears on film.
+9. Staging of an event
+10. (Favorite) How the visual elements (everything on the screen) are composed on each shot.
+
+You can't assume that things are "just there".
+Anything you see on the screen you can't assume is just there.
+It's very subtle (visual orchestration).
+Every object on screen is working with another object on screen.
+
+Very careful planning.
+Very careful construction.
+
+Planning---placement of people, camera angles, lighting, etc.
+Director has a reason for this.
+Each thing that is put into a shot or a scene---it's put there for a reason.
+
+It's about creating an effect.
+Everything tells a story.
+"What contribution does it make?"
+
+** Four main components of mise-en-scène.
+
+Setting.
+"The container of events."
+
+Human figure.
+Body placement.
+Props.
+Makeup.
+Acting.
+Expression.
+"What does the human figure do?"
+"What does the human figure look like?"
+The physicality of the human figure
+Body placement of human figure --- what does it contribute to the overall story?
+The makeup of an actor is contributing to the story
+
+Lighting.
+How do your eyes tell a story.
+
+Space composition.
+"Organization of everything on the screen and how it helps develop the narrative."
+
+** Identifying mise-en-scène components in a shot
+
+** In-class screening #1
+
+Movie: Breakfast Club
+
+Sherman High School
+
+Saturday, March 24
+
+Students are being dropped off to detention.
+
+1. Princess
+2. Nerd/Brain
+3. Jock
+4. Criminal
+5. Basketcase
+
+*** Princess
+
+- BMW, Shiny car
+- Nice clothes: burbary scarf, ironed blazer, leather jacket
+
+*** Nerd/Brain
+
+- Red Benz: EMC 2
+
+*** Jock
+
+- Ford, big car
+- Clothes: Blue varsity jacket, red wrestling championship patch, Red jacket
+- Son and Dad look similar
+
+*** Criminal
+
+- No car
+- Clothes: Sunglasses, long jacket, boots
+
+*** Basketcase
+
+- All black clothes
+
+*** High school
+
+- Looks like a prison
+- Dark
+- There's no one there
+- Uninviting
+- Uncomfortable
+- One huge cinder block
+- Nothing appealing about it
+- What better way to establish the mood
+- Doesn't have any happy people walking around
+- Doesn't have any inviting things about it
+- This sets the mood for everything
+- Appears to be an accurate depiction of what many high schools looked like for a lot of people
+- Reminds people of their own high school
+- Takes you right back to those high school days
+
+Shots inside of highschool:
+
+- Stereotypical look of a high school
+
+** In-class screening #2
+
+Movie: The Big Chill
+
+Context: A guy took his own life and everyone is preparing for his funeral
+
+*** Character #1
+
+- All very warm colors "it just glows; it's warm and inviting"
+- Here's a home that has a master bath---this is not a tiny, cramped apartment
+- This is a family unit---they're fairly well off and comfortable
+- Dad seems to have bathed the baby before---routine, stereotypical heteronormative family
+- Everything is comfortable
+- They have received some bad news
+- Phone's whiteness/brightness is harsh
+
+*** Character #2
+
+- She's married
+- Classy, stiff and cold environment
+- No one here
+- Wallpaper is related to the previous character---plants all around
+
+*** Character #3
+
+- He's a writer
+- Typewriter, cups full of pencils, papers and newspapers everywhere
+- Coffee cup
+
+*** Human figure
+
+- Baby
+  + dark, curly hair
+- Dad
+  + dark, curly hair
+  + Green patterned, shirt matches the house wallpaper
+- Mom
+  + blonde, curly hair
+- Rich guy on airplane
+  + drinking a lot of bottles
+- Dancer
+  - Flexible
+- Another rich guy in car
+  - Smoking, doing drugs, sunglasses
+
+* 2022-09-01
+
+** Mise-en-scène
+
+- "What function does X serve?" where X is any detail in a shot/scene
+
+- There are so many items on the screen it can be overwhelming.
+  Take a step back and take two items from the scene and make a connection between them.
+
+- Stereotypes
+
+- Assumptions
+
+* 2022-09-06
+
+** Quiz review
+
+- Golden wedding ring is thick
+- Dark, thick dress
+- Gray, harsh waves
+- Dominating landscape
+
+** Cinematography
+
+Cinematography is how the mise-en-scène is filmed.
+
+- What is filmed?
+- How is it filmed?
+- Work done by camera
+- Work done by lighting
+- Control of the mise-en-scène
+- Using the camera to serve the purposes of the story
+- How the camera contributes to the overall meaning as much as the mise-en-scene
+- How the film will be photographed
+- How the photo will be shot
+- Balance between aesthetics and function
+- Imagery that tells a story rather than showcasing it
+- Think about camera and space
+- Particular perspective
+- "What is the effect of X shot?"
+- "What is the effect of the close up?"
+- "What is the effect of the extreme close up?"
+- "How do you use the camera to make the audience feel?"
+
+** Basic Film Shots
+
+- Extreme Long Shot (XLS,ELS)
+- Very Long Shot (VLS)
+- Long Shot (LS)
+- Medium Long Shot (MLS)
+- Medium Shot (MS)
+- Medium Close-Up (MCU)
+- Close-Up (CU)
+- Big Close-Up (BCU)
+- Extreme Close-Up (XCU,ECU)
+
+** Quiz Review (Cinematography)
+
+- Extreme Close-Up---looking through the eyes of the main character
+- Long shot---introduces settin
+- Moving camera overhead---threatening, constricting
+
+* 2022-09-08
+
+Todays Topic: Cinematography & Lighting
+
+** Notes on Cinematography
+
+- Any shot implies significance
+- "What meaning is conveyed by the type of shot?"
+- Any shot will shape unfolding drama
+- Illicit an emotional response
+- A good way to adjust to cinematography is to "go with your gut"---what's your immediate emotional response... to this extreme close up, to this long shot
+
+** Screening 1
+
+*** Mise-en-Scène
+
+- It's summer time: it's sunny, the girl is eating a popsicle
+- It's in the suburbs: trees, sparse cars
+- Composition: The road sides/sidewalks creates lines down the screen
+- Cars look like from 70s-80s
+
+*** Cinematography
+
+- Faded memories; something in the past
+- Think about it: "How would you fade your memories?"
+
+** Screening 2 (James Bond)
+
+- Whenever Bond is in the shadows it feels very suspenseful
+
+- When he's out of the shadows and he goes outside he disappears, implying a spy character
+
+- Whenever he's in focus, it's a close-up shot.
+  Otherwise, it's a long shot.
+
+- Long shot--silhouette;
+  Medium shot--lit up;
+
+** Screening 3
+
+- Beginning of film
+
+  + Runners running down road
+
+- Next clip of film
+
+  + Man on the run
+
+* 2022-09-13
+
+** Editing
+
+- Taking individual shots and putting them together
+- Selection and arrangement
+- Basic creative force of filmmaking
+- Controls the creative expressive power of the film
+- Key verbs:
+  + Selecting
+  + Arranging
+  + Assembling
+- The joining together of two shots
+- Key term: cutting or splicing
+- Editing is about feeling a rhythm
+- Material cut or break in the film
+- Contributes to a film's organization and its effect on its spectators
+- 3 key points:
+  1) Draw your attention to the change in the mise-en-scène
+  2) Encourages audiences to compare and contrast the cinematography in each shot
+     - Example: The Virgin Suicides going from green to blue
+  3) Gives us abrupt changes; these abrupt changes create an emotional response
+- Action films contain 3000 or more shots
+- Editing shapes viewers experiences, even if they aren't aware of it
+
+** Screening #1 (Gravity)
+
+- First shot
+  + Super long duration: shows us vastness of the planet
+
+** Screening #2 (La La Land)
+
+- Long shot:
+  + Used for musicals
+
+** Screening #3 (Bonnie and Clyde)
+
+- Frenzy of shots:
+  + Expresses anxiety
+
+** Screening #4 (Silence of the Lambs)
+
+- Consistent tempo
+- Divisions:
+  + Inmates
+  + Aggression
+  + Man/Woman
+- Characters remain in place
+- Camera moves in the same direction
+
+** Screening #6 (The Shining)
+
+* 2022-09-15
+
+** Editing Overview
+
+- Taking individual shots and joining them together.
+
+- Selecting and arranging shots to make it flow and create a unique narrative.
+
+- The editor has the responsibility of manipulating (handling, cutting, and assembling) the footage.
+  Think in terms of narrative form, continuity/discontinuity, and augmentation of the film's collective vision.
+
+** Continuity (See 180° Rule)
+
+- Example: [[https://www.youtube.com/watch?v=Ak70AEHw1as][Slumdog Millionaire "Are you nervous?" clip]]
+
+  + Character positions remain consistent in between cuts (contestant to the left and host to the right)
+
+  + Shot/reverse shot [[https://www.youtube.com/watch?v=o1Ey0a6LJRA][(see shot/reverse shot in The Hunger Games)]]
+
+  + Editing comes across as natural and doesn't call attention to itself
+
+** Discontinuity
+
+- Example: [[https://www.youtube.com/watch?v=VkSTpL18XV8][The Dark Knight: When to break the 180° rule]]
+
+  + Shot/reverse shot
+
+  + Positions of Batman and The Joker change between the cuts (the camera "jumped the line")
+
+  + Editing creates a sense of confusion, instability, and tension
+
+** 180° Rule
+
+- The camera should remain on one side of the imaginary axis so there is continuity in character placement
+
+- Moving over the axis is called "jumping the line" and although it breaks the rule, it has its purpose in place in film
+
+** 1st shot + 2nd shot = 3rd meaning
+
+- Example: [[https://www.youtube.com/watch?v=_gGl3LJ7vHc][Kuleshov Effect]]
+
+  + Based on two shots in a sequence we are able to make assumptions or draw conclusions
+
+  + Watch the facial expressions in the clip and see how your view changes between shots.
+    What connections can you infer between the soup (or doll or woman) and the reaction shot?
+
+** Editing Review
+
+- Example One: [[https://www.youtube.com/watch?v=az-VjJLwn2I][The Big Chill]] opening
+
+  + There are extreme close-ups of a body being dressed interspersed between character introductions (consider the mise en scene and cinematography)
+
+  + The editing pulls together a disparate group of people/individuals using the common thread of the body
+
+  + The scene begins with a family unit and slowly moves away until we are left with an individual consuming pills, smoking a joint, and driving irresponsibly
+
+  + When it's revealed that the body is a corpse being dressed, it invites further analysis of the relationship between these five people
+
+- Example Two: [[https://www.youtube.com/watch?v=MHW2gU8eoS4][Silence of the Lambs]]
+
+  + The arrangement and cutting manipulate the third meaning formula by allowing the viewer to naturally assume the scenes are connected, though they are not
+
+- Example Three: [[https://www.youtube.com/watch?v=FDFdroN7d0w][Marriage Story]]
+
+  + Dissolution of a marriage told through editing and shot composition
+
+  + Both characters are filmed individually
+
+** Class Notes: Editing
+
+- The editor is responsible for manipulating footage (cutting, assembling)
+
+- Create continuity out of discontinuity
+
+- Choreographing a scene
+
+- Continuity: continuous editing, seamless, everyone remains in the same place
+
+  + The camera does not cross the line (match on action)
+
+  + Editing that doesn't cause attention to itself
+
+  + Example: shot - reverse shot - shot - reverse shot
+
+- Discontinuity: discontinuous editing, breaks the 180 rule by crossing the line, a disruption
+
+  + Can be slow and not clear
+
+  + Evokes sometime, often a fleeting moment (confusion, craziness, disorientation, etc.)
+
+- Adding the first two shots and forming a meaning
+
+  + Doesn't need to be a connection between 1 and 2, the audience does that
+
+  + We attach a third meanin to two shots that have no meaning connection
+
+- What do you know, how do you know it, how does editing tell you?
+
+- Creates the thread that pulls everything together
+
+- You read the shots
+
+- How does the plot summary work with the editing?
+
+- Use the language! (cut, arrange, splice)
+
+- "Naturally assume"
+
+- How are you being manipulated?
+
+- How do you reinforce what's going on in the story by using editing?
+
+* 2022-09-20
+
+- Central question: "To what effect?"
+
+- Sound guides our attention
+
+- Sound helps define space
+
+- Sound conveys mood and characters state of mind
+
+- Sound arouses expectations
+
+- Sound in film studies always should be considered in its relationship to image
+
+- Sound is integral to the cinematic story
+
+- Sound is created specifically for the story
+
+- Sound is working on a physical and psychological level
+
+- Diegetic: in film world
+
+- Non-diegetic: outside film world
+
+- If the character can hear the sound then it's diegetic, otherwise it's non-diegetic
+
+- Silence of the Lamb sounds: swallow; birds; footsteps
+
+* 2022-09-22
+
+** Key Terms
+
+- Synchronous: On screen sound coming from real source
+
+- Asynchronous: Off screen sound (not precisely matched)
+
+** Review
+
+- Complete 180° (The Shining): provides meaning not provided by mise-en-scene or cinematography
+
+- Creates visceral emotion (Zero Dark Thirty)
+
+- Diegetic/Non-diegetic
+
+- Distinguishing from diegetic/non-diegetic:
+
+  + "Can the character hear it?"
+
+** Screening 1 (Moonlight) (asynchronous sound)
+
+*** Clip 1 (Woman talking to boy)
+
+https://youtu.be/9aFObKJR7YA
+
+- Makes it feel like a hallucination, something's kind of off
+
+  + The editing and sound reinforce that
+
+*** Clip 2 (Diner)
+
+https://youtu.be/2eD76nuPAC0
+
+- Thoughts overheard
+
+- Disconnection
+
+- You start to identify a particular pattern
+
+** Silence
+
+- Silence functions as sound
+
+- Silence -- "forewarning"
+
+** When watching clips
+
+- List all of the sounds you hear
+
+- Think diegetic/non-diegetic
+
+- Think synchronous/asynchronous
+
+** Screening 2 (Carrie) (1976) (prom scene) (silence as sound)
+
+https://youtu.be/XTMue4Dyvr4
+
+- Mise-en-scene:
+
+  + Girl in pristine white dress, the music matches with angelic harp
+
+- Cinematography:
+
+  + Close-up on girl underneath staircase, the music abruptly changes to a darker sound, completely changing the mood
+
+- Silence:
+
+  + Tuning everything out except her thoughts
+
+  + Swirling vignettes give isolating feeling, sounds: repeated asynchronous lines
+
+    - It's about to break at some point
+
+- Sounds:
+
+  + Psycho sound: asynchronous/non-diegetic
+
+  + Voices in head: asynchronous/non-diegetic
+
+  + Laughter
+
+  + Clapping
+
+  + Door slamming
+
+  + Loud gusty wind sound -- "storm is coming"
+
+  + Loud hum: asynchronous/non-diegetic
+
+** Screening 3 (Amour) (stroke scene) (silence as sound)
+
+https://youtu.be/KIb2j1QW3z4
+
+- This is a very sad, sad scene
+
+- Think about how silence is functioning here
+
+- Silence shows emptiness -- complements the dark, empty rooms
+
+- "Loss of self"
+
+** Screening 4 (Martha Marcy May Marlene)
+
+*** Clip 1 (Martha flees cult and escapes into the woods)
+
+- Aggressive
+
+- Isolation
+
+- Eerie
+
+- Men and women separated
+
+- Is this even a family?
+
+- "Where are you going?" -- boy sounds threatening
+
+*** Clip 2 (Martha makes emotional phone call)
+
+https://youtu.be/F6ZnWy6oucY
+
+- Drone sound, non-diegetic
+
+*** Clip 3 (Martha attends friend's party)
+
+- Beehive sound, non-diegetic
+
+* 2022-09-27
+
+** Crime Plot/Story
+
+A. Crime conceived
+B. Crime planned
+C. Crime committed
+D. Crime discovered
+E. Detective investigates
+F. Detective reveals A,B,C
+
+** Narrative notes
+
+- Narrative means "story"
+- Specific POV => Specific story
+- Narrative is...
+  + "What is being told"
+  + "What we mean by its story"
+  + "To tell a story"
+  + "What gets told in the telling"
+- Narrative form
+  + How a film is being conveyed
+  + Structuring device
+- Plot - How story unfolds---"Play by play"
+- Story - Totality of all plot points
+
+** Mercedes-Benz commercial TV --- "Bertha Benz"
+
+- Story - Buy Mercedes-Benz products
+- Plot
+  + Strong woman
+  + Long-history in automobile industry
+  + March 8 --- women's rights day
+
+** Titanic --- "Elderly Rose"
+
+- Plot
+  + Flashback to younger rose
+  + Elderly rose
+  + Flashback to brand new titanic
+  + Back to old titanic/elderly rose
+  + Restored titanic
+- Story - Rose's experience of titanic
+
+* 2022-09-29
+
+** Shot-by-shot analysis
+
+- Avoid using your favorite film
+
+- You should watch your clip to the point that you're sick of it
+
+- Chart everything out---to be submitted with the analysis
+
+- Take a step back:
+
+  - You need a thesis for this
+
+    - It can't just be "this clip makes good use of editing"
+
+    - Better thesis: "This clip immerses the audience in a war-like chaotic theater"
+
+- You don't want a five paragraph theme for this essay
+
+- A really good analysis starts with the easiest thing and ends with the most complicated part
+
+  - E.g., I want to start with editing become it's overwhelming in this clip; and want to end with something that is apparent to me but might not be obvious to others (such as cinematography)
+
+- It's all about logical order
+
+  - It's like sitting next to a stranger and explaining to them your analysis
+
+** Narrative review
+
+- Narrative is the story from a certain point of view
+
+  + Story is like the framework of the plots
+
+    - Plots are like the chapters of the storybook
+
+** Exercise (The Sweet Hereafter)
+
+- Plot out the scenes
+
+- Note when you were confused/lost
+
+- What is anchoring your understanding
+
+- Watch the timer
+
+  - "I'm 3 minutes in and I'm lost"
+
+  - "I'm 6 minutes in and I'm still lost"
+
+*** Scenes
+
+1) Slow pan of shadows on hardwood floor, revealing parents and child sleeping in bed
+
+2) Shot in backseat of car as it is going through the carwash, with old man as the driver, matches lighting pattern of previous scene
+
+3) A new car drives into empty lot, girl calls payphone
+
+4) Man from previous car picks up, reveals girl is his daughter
+
+5) Scene switches to girl at payphone
+
+6) Switches back to father
+
+7) Back to girl
+
+8) Back to father (doesn't know who he is talking to)
+
+9) Back to girl
+
+10) Back to man
+
+11) Back to girl
+
+12) Back to man
+
+13) Back to girl
+
+14) Back to man
+
+15) Back to girl, she hangs up frustrated
+
+16) Scene switches to cloudy day at the carnival fair with band playing live music, new characters introduced
+
+17) Scene switches to girl and boy character talking (why is she referring to him as daddy)
+
+18) Back to old man in the car wash, he calls someone
+
+19) Cuts to old man entering messy home (loud buzzing in the background), reveals junkyard-looking car in the garage, and a broken down school bus
+
+20) Cuts to school bus entering carnival fair, with girl and "daddy" are sitting together; teacher hops off school bus with group of children
+
+21) Cuts to snowy, hilly landscape as car pulls up to a cabin
+
+22) Cuts to old man entering cabin (December 1995)
+
+23) Old man talks to woman, then to another old guy who mentions something about an accident
+
+24) Cuts to them all talking again, in a separate room in the cabin, reveals old man is lawyer
+
+25) Lawyer steps outside the room for a private call with Zoey
+
+26) Cuts to airplane scene set in September 1997 with Allison (Ally) and lawyer sitting next to each other and talking
+
+27) Cuts to snowy winter in a forest landscape, with school bus driving through, school bus driver (Dolores) talks to family (mother is Wanda)
+
+28) Cuts to cabin with Dolores with injured neck talking to lawyer
+
+29) Cuts to winter landscape with Wanda and her husband
+
+30) Cuts back to cabin where Dolores tells lawyer about bazaar, and they love bear (Wanda's son)
+
+31) Cuts back to inside of the school bus driving through the winter landscape
+
+*** When you were confused/lost
+
+- Confused x3
+
+*** Notes
+
+- Mitchell, the old guy, can't really communicate
+
+  + E.g., we know it's Zoey on the other end of the line, but Mitchell asks if she's ok, on drugs or something
+
+* 2022-10-04
+
+** Example (Narrative model: Romance)
+
+a) Boy meets girl
+
+b) They fall in love
+
+c) They confront a crisis
+
+d) They split
+
+e) They realize they are made for each other
+
+f) They get back together
+
+** Genre
+
+- Classification
+
+- Categorization
+
+- Repeating
+
+- Variation/alteration of these repeatable conventions
+
+- Where do we see genre categorization the most?
+
+  + Netflix
+
+- We like familiarity
+
+- Film genre as a business is really important to Netflix
+
+- What are the quintessential elements of a horror film?
+
+  + Dark lighting
+
+- Evolution of a genre: when genre films deviates from convention
+
+* 2022-10-06
+
+** Genre review
+
+- Horror: "Monstrous other"
+
+** Screening: Take Shelter
+
+- Based on the cover, what genre does it look like?
+
+  + Disaster
+
+  + Apocalyptic
+
+  + Survival
+
+- Monstrous other: "the economy"
+
+  + If you lose your job, you lose your healthcare, and you can't get an operation done to restore your daughter's hearing
+
+** Screening: Dog Day Afternoon
+
+- Gabe's favorite film
+
+- Take note when there is a surprise or when you hear laughter in the room
+
+- Two genres:
+
+  + Comedy
+
+  + Caper film
+
+- Editing (alternating between rich and poor):
+
+  + Work vs. play
+
+  + Public vs. private
+
+  + Work vs. unemployed
+
+- Political film
+
+- Working class film
+
+- Social commentary film
+
+- When did you laugh?
+
+  + Fumbling to get the gun
+
+  + Robber leaves, saying he can't do it
+
+  + Hopping up to spray the camera
+
+  + Random moments of reality
+
+* 2022-10-11
+
+** Documentary film
+
+- We can difference between a documentary film or a fiction film
+
+  + Intro shots
+
+  + "Actual footage"
+
+- Documentary films
+
+  + Something revealing--"a truth"
+
+  + To tell us a certain truth
+
+  + We generally watch documentary films to learn something new
+
+  + In terms of purpose
+
+  + Mode of production
+
+  + Actual footage
+
+  + Interview style
+
+  + Most modern films are for making a profit
+
+  + Documentary films are not for making a profit
+
+    - We expect to learn something
+
+  + Documentary = Creative treatment of actuality
+
+  + Documentary = Presumably real
+
+  + Documentary = Present a "truth"
+
+  + Documentary = Presenting an argument
+
+  + Documentary = Constructing an argument
+
+    - Order, flow, and sequence
+
+  + Voice of authority = Particular claim about the world
+
+- Key thing:
+
+  + Camera is objective
+
+  + Filmmaker is non objective
+
+    - Filmmaker can change editing, lighting, sound, etc.
+
+** Screening 1: Craigslist Joe
+
+- Argument: Internet is not as isolating as people think
+
+- Applying critical pressure:
+
+  + White male privilege
+
+  + Film crew "security net"
+
+** Screening 2: The Seven Five
+
+- Argument: New York City is crime infested
+
+- Applying critical pressure:
+
+  + They only interviewed cops
+
+    - Look at the names, titles, race, gender
+
+  + What about the other neighborhoods in NYC?
+
+** Screening 3: Eyewash (Robert Breen)
+
+** Experimental film
+
+- Experimental filmmakers are interested in an aesthetic experience
+
+- Very uninterested in telling a story
+
+- All about the freedom that's available
+
+- Not interested in making money
+
+- Willfully non-conformist
+
+- Key goal: looking at things in a different light
+
+- Filmmakers do not collaborate with other people--all about the individual filmmaker
+
+- Create thought provoking experiences
+
+** Screening 4: Blazes (Robert Breen)
+
+** Screening 5: Koyaanisqatsi (1982)
+
+- "I'll put my credits wherever I want"
+
+** Screening 6: Catalog (1961)
+
+* 2022-10-13
+
+** Whiteboard
+
+Tarnation: What is this film about?
+
+- How do you document the effects/affects of violence?
+- How do you document trauma?
+- How do you document mental illness?
+- How do you document a dysfunctional home?
+- How do you document schizophrenia?
+
+** Experimental Film Scale From 1-10
+
+Where 1 is stuff we watched on Tuesday and 10 is mainstream films with very clear narrative.
+
+** Screening 1: One Flew Over the Cuckoo's Nest
+
+Scale: 10
+
+** Screening 2: A Beautiful Mind
+
+Scale: 10
+
+** Screening 3: Take Shelter
+
+Scale: 8.5
+
+** Screening 4: Tarnation
+
+Scale: 5
+
+* 2022-10-18
+
+** Ideology
+
+*** What is Ideology?
+
+- Ideas
+
+- Values
+
+- Attitudes
+
+- Beliefs
+
+- Perception (way of looking at the world)
+
+- Way of thinking
+
+- System of beliefs that groups of people share and _believe are inherently true and acceptable_
+
+- _Most ideological beliefs are rarely questioned by those who hold them_
+
+- _These beliefs are naturalized because of their constant and unquestioned usage_
+
+- They are "self evident"
+
+- No one needs to explain these ideas, because supposedly everyone knows them
+
+*** Dominant Ideologies
+
+- When an ideology is functioning optimally within a society, individuals are incapable recognizing that these ideas are socially constructed opinions and not objective truths
+
+- These ideologies are _dominant_ because they tend to structure in pervasive ways how a culture thinks about itself and others, who and what it upholds as _worthy_, _meaningful_, _true_, and _valuable_.
+
+*** White, Patriarchal, Capitalism
+
+- United States founded on and still adheres to dominant ideology of W,P,C
+
+- This ideology permeates the way most Americans think about themselves and the world around them.
+  (This ideology also permeates most American film.)
+
+- _White_: refers to ideology that people of Western and Northern descent are somehow better than are people whose ancestry is traced to other parts of the world
+
+- _Patriarchal_: refers to a culture predicated on the belief that men are the most members of society
+
+- And thus entitled to greater opportunity and access to power
+
+- As part of American patriarchy, heterosexuality is condoned within a heterosexual marriage, reinforces women's role as child-bearing and child-raising property of men
+
+- _Capitalism_: belief that success and worth are measured by one's material wealth
+
+- Think of the vision of the "American dream"
+
+- Almost always invokes financial success: a big house, big car, vacations, etc.
+
+- Ideology of W,P,C works not only to naturalize previous ideas, but to protect them
+
+- Never stable or rigid, always in flux
+
+- Hegemony: ongoing struggle to maintain consent of the people to a system that governs them.
+  (Hebdidge essay)
+
+- Social control won over and over again
+
+- Example: women's right to vote
+
+*** Althusser
+
+- How social systems enforce control
+
+- Subtly molding human subjects through ideology
+
+- Ideology makes US "subjects" of the dominant social order
+
+- Ideology is not voluntary but the result of structural factors in society
+
+*** ISA and RSA
+
+- ISA: Ideological state apparatuses
+
+- Societal mechanisms for creating obedient citizens who practice dominant values
+
+- Civil institutions that have legal standing
+
+  + Church
+
+  + School
+
+  + Courts
+
+  + Political parties
+
+- RSA: Repressive state apparatuses
+
+- (maintain power through implicit consent -- not force)
+
+  + police
+
+  + military
+
+  + prison system
+
+  + government
+
+  + law
+
+*** Film and Ideology
+
+- Movies have an ideological function
+
+- Persuade the audience that a particular view or way of life is desirable
+
+- Every film = value as a (ideological) document
+
+- Document that reflects and influences a society's ideology
+
+- Hollywood supports underlying ideologies by relying on stereotypes (think mise-en-scene, genre)
+
+- Hollywood film industryr suppresses certain stories of certain individuals or groups
+
+*** Films are barometers of culture
+
+Films shape our ideas about:
+
+- Sexuality
+- Race
+- Class
+- Capitalism
+- Technology
+- Gender
+- Poor/wealthy
+- The good life
+- The "right" life
+
+*** What messages does your film carry?
+
+- About "the way things should be"?
+- What does it "teach" you?
+- What does the film legitimize? Promote?
+- What does it support?
+- What view of the world is being expressed?
+
+*** Media Clips used in class
+
+- Don Draper, /Mad Men/:
+
+  #+begin_quote
+  You're born alone and you die alone, and this world drops a bunch of rules on top of you to make you forget those facts
+
+  Youtube --Don Draper's best quote
+  #+end_quote
+
+- James Franco, /Interior. Leather Bar/
+
+  #+begin_quote
+  I don't like the fact that I've been brought up to think a certain way.
+  #+end_quote
+
+  #+begin_quote
+  ...realizing that my mind has been twisted by the way that the world has been set up around me
+  #+end_quote
+
+  #+begin_quote
+  ...straight, normative kind of behavior instilled into my brain
+  #+end_quote
+
+- Slavoj Zizek, /The Pervert's Guide to Ideology/
+
+  #+begin_quote
+  put on the glasses
+  #+end_quote
+
+  #+begin_quote
+  critique of ideology glasses
+  #+end_quote
+
+  #+begin_quote
+  They allow you to see the real message beneath all the propaganda, publicity glitz, posters, and so on.
+  #+end_quote
+
+  #+begin_quote
+  When you put on the glasses you see dictatorship in democracy
+  #+end_quote
+
+*** For more see
+
+/America on Film: Representing Race, Class, Gender, and Sexuality at the Movies/.  Blackwell Publishing.  Authors: Henry Benshoff and Sean Griffin.
+
+/The Norton Anthology of Theory and Criticism/.  W.W. Norton.  Editors: Vincent Leitch, William Cain, Laurie Finke, and Barbara Johnson.
+
+/Film Theory & Criticism/.  Oxford University Press.  Editors: Leo Braudy and Marshall Cohen.
+
+/Modern Criticism and Theory: A Reader/.  Longman.  Editors: David Lodge and Nigel Wood.
+
+/Media Studies: A Reader/.  New York University Press.  Editors: Sue Thornham, Caroline Bassett, and Paul Marris.
+
+* 2022-10-20
+
+** Screening #1 (Ned Beatty's NETWORK speech-by Paddy Chayefsky)
+
+- Capitalism is messing with the forces of nature
+
+** Screening #2 (Zizek - Pervert's Guide to Ideology)
+
+- Unconciously following certain ideologies
+
+** Screening #3 (Lars and the Real Girl Official Trailer #1 - Ryan Gosling Movie (2007) HD)
+
+** Screening #4 (Lars and the Real Girl)
+
+- Lars is a totally normal human being
+
+- The people around him try to make him conform to their ideologies
+
+* 2022-10-25
+
+** Model
+
+S → M → R
+
+- Sender
+
+  + Author
+
+    - Director
+
+- Message
+
+  + Film
+
+- Receiver
+
+  + Audience
+
+** Auteur theory
+
+- A single person
+
+- The director is "the author"
+
+- "White male authority figure"
+
+- The director makes crucial decisions about performance, setting, cutting, sound, etc.
+
+- The director has the most control over how a film looks and sounds
+
+- The director creates the film's form and style
+
+- The idea of film authorship is the bearing of one person
+
+- A sign of "greatness"
+
+- Master craftsmen
+
+- Marketing tool
+
+- All films by the same director are equally valuable
+
+- Auteur theory = director as the author of the film
+
+** Screening #1: Lincoln (Steven Spielberg)
+
+- Somber music
+
+- Same narrative as Saving Private Ryan
+
+** Danny Boyle Screenings
+
+- Slumdog Millionare (2008)
+- 127 Hours (2010)
+- Steve Jobs (2015)
+
+** Casting Directors
+
+- Casting directors should get some credit
+
+* 2022-10-27
+
+** As I Lay Dying
+
+** EMPIRE Uncut
+
+** 3 central questions of Reception Theory
+
+1. What *is* an author?
+
+2. Where does meaning lie in a film and with whom?
+
+3. Who owns a film?
+
+** Types of readers
+
+- Ideal reader
+
+- Implied reader
+
+- Actual reader
+
+** Stanley Kubrick /The Shining/
+
+*** Interpretation 1
+
+About genocide of Native Americans
+
+*** Interpretation 2
+
+Not scary enough
+
+*** Interpretation 3
+
+The movie was showing him stuff that he's never seen
+
+*** Interpretation 4
+
+Interprets it as a film about the Holocaust because of the German typewriter
+
+*** Interpretation 5
+
+- Someone who didn't even want to go
+
+- Now someone who wants to be a filmmaker
+
+Lots of little hints
+
+** Rock Hudson
+
+* 2022-11-01
+
+** Whiteboard
+
+*** American Dream
+
+- Larger than life people
+- Idols of screen
+- Has to sell
+- Always selling something (Ideology)
+
+*** Authorized outlets
+
+- Print
+- Television
+- Online
+- Magazine covers
+
+*** Unauthorized Outlets
+
+- Gossip blogs
+- TMZ
+- Paparazzi
+
+** Stardom
+
+- Maintain balance between ordinary and extraordinary
+- What does health look like?
+- What does beauty look like?
+- What does the American Dream look like?
+  + Capital
+  + Freedom
+- Mise-en-scene very important to stardom
+- Their stardom becomes a focal point of mise-en-scene
+- The film star can be the center of and dominate the entire narrative of the film
+- Need both authorized and unauthorized outlets (i.e., ordinary and extraordinary)
+
+* 2022-11-03
+
+** Screening (Baraka)
+
+** Screening (9/11 Unfolding)
+
+** Screening (Samsara)
+
+** Screening (His Girl Friday)
+
+** Social Context in Films
+
+- Old realities being replaced by new realities
+
+* 2022-11-08
+
+** Screening (The Sweet Here Thereafter)
+
+** Screening (Carrie 1966)
+
+- Pre Columbine
+
+** Screening (Carrie 2013)
+
+- Post Columbine
+
+* 2022-11-10
+
+** Whiteboard
+
+- I publicize, therefore I am
+
+- Paratexts
+
+  + Film
+
+    - T-shirts
+    - Poster
+    - Games
+    - Toys
+    - TV Spots
+    - Premiers
+
+** Notes
+
+- Paratext: all the things around a film pointing towards the film, except for the film itself
+
+** Screening (Top Gun Maverick Premiere)
+
+** Screening (Alien)
+
+** Se7en
+
+* 2022-11-17
+* 2022-11-29
+
+** What is culture?
+
+- History
+
+- Rules
+
+- Laws
+
+- Government
+
+- Art
+
+** Screening (Blowup)
+
+- Mimes disrupting flow of city
+
+* 2022-12-01
+
+** Visibility
+
+Technology makes things appear
+
+Making things appear = visibility
+
+Visibility = knowledge
+
+** Screening (Blowup)
+
+- Counter-culture, beach type of sound
+
+- Obstructing views
+
+- Mimes, hard to see what is going on
+
+- Mimes, reality is being played with
+
+- He is the photographer (his point of view)
+
+- Photographer blowsup photos to reveal a new narrative: an assassination happened
+
+- PHotographs are stolen
+
+- Body is hidden
+
+- All evidence destroyed
+
+- Mimes play pretend tennis
