@@ -1,0 +1,79 @@
+#+TITLE: Shot By Shot
+#+AUTHOR: Eric Nguyen
+#+OPTIONS: num:nil toc:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage[doublespacing]{setspace}
+#+LATEX_HEADER: \frenchspacing
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+EXCLUDE_TAGS: noexport
+#+EXPORT_FILE_NAME: ShotByShotAnalysis_NguyenEric
+
+* 3 minute film clip :noexport:
+
+- Top Gun: Maverick
+- Arcane
+
+* List of elements of mise-en-scene :noexport:
+
+* Detailed shot list of all the shots :noexport:
+
+* List of editing features :noexport:
+
+* List of all the sounds :noexport:
+
+* Assignment description
+
+This assignment is worth 30% of your final grade and is due Thursday October 13th by midnight (uploaded to Canvas in the assignments section labeled shot-by-shot analysis; please upload a word document).
+Your analysis will be about 5-6 pages in length; your documentation of the film elements will vary depending on your clip and method of recording them.
+
+The purpose of this assignment is for you to expand upon the viewing skills you have acquired in the first half of the semester and to demonstrate an ability to form significant points about a cinematic text.
+
+Here is what you will need to do:
+
+1. Select a *3 minute film clip* (no more, no less; any clip will do. It can come from the beginning, middle, or end of the film; it can be from your favorite film and a random clip you found interesting, etc.).
+   *Make sure you are able to submit this clip with your analysis.*
+   *I must be able to view it before I review your work and evaluate your analysis.*
+
+2. Provide a list of the elements of *mise-en-scene* and explain their overall function and connection to other elements of mise-en-scene (questions to consider: what helps convey characters and themes? Is some particular element of mise-en-scene dominant? How is the mise-en-scene presented?)
+
+3. Provide a detailed shot list of all the shots (*cinematography*).
+   Be sure to number and time them.
+   (questions to consider: what shots are dominant? What do they do? Is there a particular pattern at work? How is lighting working? How does the camera convey meaning?)
+
+4. Account for the *editing*.
+   (questions to consider: How many cuts? What kinds of transitions are there between shots? Is there a particular rhythm? Is the editing continuous or discontinuous? What spatial or temporal relations are made apparent through the cutting?)
+
+5. List /all/ the *sounds* and label them diegetic or non-diegetic.
+   (questions to consider: what sounds are present and how would you describe them? Is silence used; if so to what affect? Are specific sounds working with any of the other elements of film? Are the sounds synchronous or asynchronous? Does the sound or any particular sound change?)
+
+Note: I recommend creating some kind of chart or table to help you keep track of everything.
+Here is an example:
+
+| Shot # | Length of shot | Shot type        | Camera angle | Camera movement | Sounds                     | Shot description                      |
+|--------+----------------+------------------+--------------+-----------------+----------------------------+---------------------------------------|
+|      1 | 12 seconds     | Extreme close-up | Upward angle | Shaky           | Birds chirping (diagetic?) | Only able to focus in on one blue eye |
+
+This is just an example -- use whatever will help you keep track of everything because doing so will help you develop a stronger analysis.
+Once you have accounted for all the elements of film in your clip, consider these questions to begin thinking about an analysis:
+
+What moods and meanings does your clip convey or suggest?
+How do aspects of mise-en-scene, editing, cinematography, and sound convey narrative information?
+How do the shots work separately and together?
+What sense does the clip make as a whole?
+How is meaning created and imparted to the viewer?
+
+*Do not write your analysis as a series of responses to the above questions.*
+*Use them as guidelines to organize your thoughts into a coherent analysis.*
+*Your analysis must demonstrate your ability to form significant points about a film clip and to support it with reliable textual evidence.*
+*The questions above are a way to get you started thinking about your analysis.*
+*Review your notes, the course readings, and the quizzes to think about how you can develop your analysis and highlight certain techniques that support it.*
+
+Make sure your analysis has an introduction (you want a clear thesis) and a conclusion, and you must use evidence from the clip to support your points.
+Pay clear attention to the mise-en-scene, editing, cinematography, and sound.
+Your analysis will be about 5-6 pages in length; your documentation of the film elements will vary depending on your clip and method of recording them.
+
+*A reminder about the course policy on plagiarism:*
+
+Any kind of plagiarism for this class will result in failure of this course.
+In addition, the instance will be reported to university authorities.
+See me if you have any questions about this.

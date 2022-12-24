@@ -1,0 +1,84 @@
+#+TITLE: Readings
+
+* What Novels Can Do That Films Can't
+
+The study of narrative has become so popular that the French have honored it with a term--/la narratologie/.
+Given the escalating and sophisticated literature on the subject, its English counterpart, "narratology," may not be as risible as it sounds.
+
+One of the most important observations to come out of narratology is that narrative itself is a deep structure quite independent of its medium.
+
+A salient property of narrative is double time structuring.
+
+Narratologists immediately observed an important consequence of this property of narrative texts, namely, the transibility of a given narrative from one medium to another: /Cinderella/ as verbal tale, as ballet, as opera, as film, as comic strip, as pantomime, and so on.
+
+In the course of studying and teaching film, I have been struck by the sorts of changes typically introduced by screen adaption (and vice versa in that strange new process "novelization," which transforms already exhibited films into novels).
+
+Critics have long recognized that descriptive passages in novels are different somehow in textual /kind/ from the narrative proper.
+
+As an example of this process, consider a bit of the short story which underlies a film by Jean Renoir, Maupassant's "Une Partie de campagne" [A Country Excursion].
+
+This first sentence, then, is straight narration which takes us out of the expository past into the narrative present.
+
+The paragraph continues with a brief description of Mme Dufour and makes references to the grandmother, to Henriette, and to a yellow haired youth who later becomes Henriette's husband.
+
+Let's consider the opening scene of Jean Renoir's 1936 film version of this story, also entitled /Une Partie de campagne/
+
+We note, for instance, that the cart is absurdly small, has only two whells, bears the name of the owner, "Ch. Gervais," painted on the side, and has a railing on the roof.
+
+Narrative pressure similarly affects the genre of film that André Bazin writes about in his essay "Painting and Cinema," the kind in which the camera moves around close-up details of a single painting.
+
+The key word in my account of the different ways that visual details are presented by novels and films is "assert."
+
+That the camera depicts but does not describe seems confirmed by a term often used by literary critics to characterize neutral, "non-narrated" Hemingwayesque fiction--the /camera eye/ style.
+
+Now, someone might counterargue: "You're forgetting obvious cinematic devices whose intention is arguably descriptive. What about the telling close-up? What about establishing shots?"
+
+Then what about establishing shots?
+
+Even the literal arrest of the picture, the so-called freeze-frame, where the image is reduced to a projected still photograph, does not automatically convey a description.
+
+Why is it that the force of plot, with its ongoing march of events, its ticking away of story-time, is so hard to dispel in the movies?
+
+Let's try these ideas out on a longer and more challenging passage of Maupassant's story, the third paragraph:
+
+#+begin_quote
+[1] Mademoiselle Dufour was trying to swing herself standing up, but she could not succeed in getting a start.
+[2] She was a pretty girl of about eighteen;
+[3] one of those women who suddenly excite you desire when you meet them in the street, and who leave you with a vague feeling of uneasiness and of excited senses.
+[4] She was tall, had a small waist and large hips, with a dark skin, evry large eyes, and very black hair.
+[5] Her dress clearly marked the outlines of her firm, full figure, which was accentuated by the motion of her hips as she tried to swing herself higher.
+[6] Her arms were stretched over her head to hold the rope, so that her bosom rose at every movement she made.
+Her hat, which a gust of wind had blown off, was hanging behind her,
+[7] and as the swing gradually rose higher and higher, she showed her delicate limbs up to the knees at each time. . . . [P. 66]
+#+end_quote
+
+The first narrative unit, "Mademoiselle Dufour was trying to swing herself" and so on, refers to an event.
+
+Still another point to be made about this piece of description concerns the word "about" and the whole of the next descriptive bit in the third unit.
+
+The adjectives in our fourth segment are easier for film to handle: height, girth, skin, and hair color are features that film can communicate reliably.
+
+In the seventh segment, an odd ambiguity is introduced.
+The text says that as the swing rose, "she showed her delicate limbs up to the knees [montrant à chaque retour ses jambes fines jusqu'au genou]."
+The camera is certainly capable of presenting the requisite portion of anatomy.
+But what about the implications of "showed"?
+
+But see what Renoir makes of this problem.
+
+At this range, we can't see anything very clearly except the waving of Henriette's skirt in the wind, but the way that Rodolphe lowers his back and settles his body clearly communicates his intention to gaze, and we become his accomplices.
+
+There follows a shot of Henriette's joyous face (fig. 5).
+
+The contrast with the banalities of the previous and following shots enhances the difference between the buoyant fresh girl, a product of nature, and the ponderous and torpid family, especially the father, who seems rooted to the ground by his heavy black jacket, absurb tie, and gross belly bulging out of checkered trousers (fig. 6).
+
+Now we get one my favorite shots in the film (fig. 7).
+It starts out as another and rather uninteresting view of mother and daughter on swings.
+But then there is a long pan over the apparently empty space of the garden, past granny
+
+Rodolphe's voyeurism becomes explicit in an intercut sequence.
+
+So even though Renoir had no direct way of communicating the ambivalences in the expression "showed"
+
+One final difference between the film and the story: the features of Henriette's appearance that Maupassant's narrator asserts are given an order.
+
+So writer, filmmaker, comic strip artist, choreographer--each finds his or her own ways to evoke the sense of what the objects of the narrative look like.
